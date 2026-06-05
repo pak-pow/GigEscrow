@@ -1,0 +1,17 @@
+{
+  "name": "gigescrow-backend",
+  "version": "1.0.0",
+  "description": "GigEscrow backend API — Freelancer Payment Protection on Stellar",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@stellar/stellar-sdk": "^13.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
