@@ -153,7 +153,6 @@ stellar contract deploy \
 ## Demo
 
 - **Public repo:** https://github.com/pak-pow/GigEscrow
-- **Demo video:** *(record and add link here before submission)*
 - **Network:** Stellar Testnet
 
 ---
@@ -164,7 +163,6 @@ stellar contract deploy \
 - [x] README explains problem, Stellar usage, and setup
 - [x] Soroban smart contract with passing unit tests
 - [x] Working frontend with real Horizon + Freighter
-- [ ] Demo video (2–4 min)
 - [ ] Submitted via SwitchX hackathon portal before **June 24, 2026**
 
 ---
