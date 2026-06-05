@@ -3,8 +3,6 @@
 > **Freelancer Payment Protection on Stellar**
 > Milestone-based escrow for Filipino freelancers. Client locks USDC in a Soroban smart contract. Funds release automatically per milestone — no more payment scams.
 
-Built for the **StellarX Philippines Hackathon 2026** · Soroban Testnet
-
 ---
 
 ## The Problem
@@ -153,7 +151,6 @@ stellar contract deploy \
 ## Demo
 
 - **Public repo:** https://github.com/pak-pow/GigEscrow
-- **Network:** Stellar Testnet
 
 ---
 
@@ -163,7 +160,7 @@ stellar contract deploy \
 - [x] README explains problem, Stellar usage, and setup
 - [x] Soroban smart contract with passing unit tests
 - [x] Working frontend with real Horizon + Freighter
-- [ ] Submitted via SwitchX hackathon portal before **June 24, 2026**
+- [x] Submitted via SwitchX portal
 
 ---
 
